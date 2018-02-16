@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-S05_TestingGrounds.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Meebs\Documents\GitHub\BattleTank\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGrounds.cpp.obj"
+"C:\Users\Meebs\Documents\GitHub\BattleTank\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsCharacter.cpp.obj"
+"C:\Users\Meebs\Documents\GitHub\BattleTank\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsGameMode.cpp.obj"
+"C:\Users\Meebs\Documents\GitHub\BattleTank\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsHUD.cpp.obj"
+"C:\Users\Meebs\Documents\GitHub\BattleTank\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsProjectile.cpp.obj"
+"C:\Users\Meebs\Documents\GitHub\BattleTank\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGrounds.init.gen.cpp.obj"
+"C:\Users\Meebs\Documents\GitHub\BattleTank\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsCharacter.gen.cpp.obj"
+"C:\Users\Meebs\Documents\GitHub\BattleTank\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsGameMode.gen.cpp.obj"
+"C:\Users\Meebs\Documents\GitHub\BattleTank\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsHUD.gen.cpp.obj"
+"C:\Users\Meebs\Documents\GitHub\BattleTank\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\S05_TestingGroundsProjectile.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\S05_TestingGrounds\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Meebs\Documents\GitHub\BattleTank\S05_TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-S05_TestingGrounds.lib"
